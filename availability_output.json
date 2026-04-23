@@ -1,0 +1,6285 @@
+{
+  "timestamp": "2026-04-22T11:57:53.365055",
+  "total_blocks": 299,
+  "data": [
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038032,
+        "name": {
+          "de": "301",
+          "ar": "301",
+          "pt": "301",
+          "en": "301",
+          "fr": "301",
+          "es": "301"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038015,
+        "name": {
+          "de": "302",
+          "ar": "302",
+          "pt": "302",
+          "en": "302",
+          "fr": "302",
+          "es": "302"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038031,
+        "name": {
+          "de": "307",
+          "ar": "307",
+          "pt": "307",
+          "en": "307",
+          "fr": "307",
+          "es": "307"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038033,
+        "name": {
+          "de": "308",
+          "ar": "308",
+          "pt": "308",
+          "en": "308",
+          "fr": "308",
+          "es": "308"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120435,
+        "name": {
+          "de": "136A",
+          "ar": "136A",
+          "pt": "136A",
+          "en": "136A",
+          "fr": "136A",
+          "es": "136A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120436,
+        "name": {
+          "de": "136B",
+          "ar": "136B",
+          "pt": "136B",
+          "en": "136B",
+          "fr": "136B",
+          "es": "136B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120433,
+        "name": {
+          "de": "137",
+          "ar": "137",
+          "pt": "137",
+          "en": "137",
+          "fr": "137",
+          "es": "137" 
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120423,
+        "name": {
+          "de": "143",
+          "ar": "143",
+          "pt": "143",
+          "en": "143",
+          "fr": "143",
+          "es": "143"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120421,
+        "name": {
+          "de": "144",
+          "ar": "144",
+          "pt": "144",
+          "en": "144",
+          "fr": "144",
+          "es": "144"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120419,
+        "name": {
+          "de": "145",
+          "ar": "145",
+          "pt": "145",
+          "en": "145",
+          "fr": "145",
+          "es": "145"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120417,
+        "name": {
+          "de": "146",
+          "ar": "146",
+          "pt": "146",
+          "en": "146",
+          "fr": "146",
+          "es": "146"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120660,
+        "name": {
+          "de": "245",
+          "ar": "245",
+          "pt": "245",
+          "en": "245",
+          "fr": "245",
+          "es": "245"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120659,
+        "name": {
+          "de": "246",
+          "ar": "246",
+          "pt": "246",
+          "en": "246",
+          "fr": "246",
+          "es": "246"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120482,
+        "name": {
+          "de": "338",
+          "ar": "338",
+          "pt": "338",
+          "en": "338",
+          "fr": "338",
+          "es": "338"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120598,
+        "name": {
+          "de": "462",
+          "ar": "462",
+          "pt": "462",
+          "en": "462",
+          "fr": "462",
+          "es": "462"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120597,
+        "name": {
+          "de": "463",
+          "ar": "463",
+          "pt": "463",
+          "en": "463",
+          "fr": "463",
+          "es": "463"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120593,
+        "name": {
+          "de": "467",
+          "ar": "467",
+          "pt": "467",
+          "en": "467",
+          "fr": "467",
+          "es": "467"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120592,
+        "name": {
+          "de": "468",
+          "ar": "468",
+          "pt": "468",
+          "en": "468",
+          "fr": "468",
+          "es": "468"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393121057,
+        "name": {
+          "de": "245N",
+          "ar": "245N",
+          "pt": "245N",
+          "en": "245N",
+          "fr": "245N",
+          "es": "245N"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393121051,
+        "name": {
+          "de": "246N",
+          "ar": "246N",
+          "pt": "246N",
+          "en": "246N",
+          "fr": "246N",
+          "es": "246N"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120415,
+        "name": {
+          "de": "112",
+          "ar": "112",
+          "pt": "112",
+          "en": "112",
+          "fr": "112",
+          "es": "112"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038080,
+        "name": {
+          "de": "120",
+          "ar": "120",
+          "pt": "120",
+          "en": "120",
+          "fr": "120",
+          "es": "120"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120409,
+        "name": {
+          "de": "121",
+          "ar": "121",
+          "pt": "121",
+          "en": "121",
+          "fr": "121",
+          "es": "121"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120413,
+        "name": {
+          "de": "122A",
+          "ar": "122A",
+          "pt": "122A",
+          "en": "122A",
+          "fr": "122A",
+          "es": "122A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120414,
+        "name": {
+          "de": "122B",
+          "ar": "122B",
+          "pt": "122B",
+          "en": "122B",
+          "fr": "122B",
+          "es": "122B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120636,
+        "name": {
+          "de": "226",
+          "ar": "226",
+          "pt": "226",
+          "en": "226",
+          "fr": "226",
+          "es": "226"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120880,
+        "name": {
+          "de": "220S",
+          "ar": "220S",
+          "pt": "220S",
+          "en": "220S",
+          "fr": "220S",
+          "es": "220S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120874,
+        "name": {
+          "de": "226S",
+          "ar": "226S",
+          "pt": "226S",
+          "en": "226S",
+          "fr": "226S",
+          "es": "226S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120873,
+        "name": {
+          "de": "227S",
+          "ar": "227S",
+          "pt": "227S",
+          "en": "227S",
+          "fr": "227S",
+          "es": "227S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120872,
+        "name": {
+          "de": "228S",
+          "ar": "228S",
+          "pt": "228S",
+          "en": "228S",
+          "fr": "228S",
+          "es": "228S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120448,
+        "name": {
+          "de": "123A",
+          "ar": "123A",
+          "pt": "123A",
+          "en": "123A",
+          "fr": "123A",
+          "es": "123A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120447,
+        "name": {
+          "de": "124A",
+          "ar": "124A",
+          "pt": "124A",
+          "en": "124A",
+          "fr": "124A",
+          "es": "124A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120446,
+        "name": {
+          "de": "125A",
+          "ar": "125A",
+          "pt": "125A",
+          "en": "125A",
+          "fr": "125A",
+          "es": "125A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120464,
+        "name": {
+          "de": "125B",
+          "ar": "125B",
+          "pt": "125B",
+          "en": "125B",
+          "fr": "125B",
+          "es": "125B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120445,
+        "name": {
+          "de": "126A",
+          "ar": "126A",
+          "pt": "126A",
+          "en": "126A",
+          "fr": "126A",
+          "es": "126A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120463,
+        "name": {
+          "de": "126B",
+          "ar": "126B",
+          "pt": "126B",
+          "en": "126B",
+          "fr": "126B",
+          "es": "126B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038019,
+        "name": {
+          "de": "127A",
+          "ar": "127A",
+          "pt": "127A",
+          "en": "127A",
+          "fr": "127A",
+          "es": "127A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120462,
+        "name": {
+          "de": "127B",
+          "ar": "127B",
+          "pt": "127B",
+          "en": "127B",
+          "fr": "127B",
+          "es": "127B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038018,
+        "name": {
+          "de": "128A",
+          "ar": "128A",
+          "pt": "128A",
+          "en": "128A",
+          "fr": "128A",
+          "es": "128A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038020,
+        "name": {
+          "de": "128B",
+          "ar": "128B",
+          "pt": "128B",
+          "en": "128B",
+          "fr": "128B",
+          "es": "128B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038011,
+        "name": {
+          "de": "129A",
+          "ar": "129A",
+          "pt": "129A",
+          "en": "129A",
+          "fr": "129A",
+          "es": "129A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038016,
+        "name": {
+          "de": "129B",
+          "ar": "129B",
+          "pt": "129B",
+          "en": "129B",
+          "fr": "129B",
+          "es": "129B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120444,
+        "name": {
+          "de": "130A",
+          "ar": "130A",
+          "pt": "130A",
+          "en": "130A",
+          "fr": "130A",
+          "es": "130A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038022,
+        "name": {
+          "de": "130B",
+          "ar": "130B",
+          "pt": "130B",
+          "en": "130B",
+          "fr": "130B",
+          "es": "130B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120443,
+        "name": {
+          "de": "131A",
+          "ar": "131A",
+          "pt": "131A",
+          "en": "131A",
+          "fr": "131A",
+          "es": "131A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120477,
+        "name": {
+          "de": "131B",
+          "ar": "131B",
+          "pt": "131B",
+          "en": "131B",
+          "fr": "131B",
+          "es": "131B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120442,
+        "name": {
+          "de": "132A",
+          "ar": "132A",
+          "pt": "132A",
+          "en": "132A",
+          "fr": "132A",
+          "es": "132A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120476,
+        "name": {
+          "de": "132B",
+          "ar": "132B",
+          "pt": "132B",
+          "en": "132B",
+          "fr": "132B",
+          "es": "132B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120441,
+        "name": {
+          "de": "133A",
+          "ar": "133A",
+          "pt": "133A",
+          "en": "133A",
+          "fr": "133A",
+          "es": "133A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120461,
+        "name": {
+          "de": "133B",
+          "ar": "133B",
+          "pt": "133B",
+          "en": "133B",
+          "fr": "133B",
+          "es": "133B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120440,
+        "name": {
+          "de": "134A",
+          "ar": "134A",
+          "pt": "134A",
+          "en": "134A",
+          "fr": "134A",
+          "es": "134A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120460,
+        "name": {
+          "de": "134B",
+          "ar": "134B",
+          "pt": "134B",
+          "en": "134B",
+          "fr": "134B",
+          "es": "134B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120438,
+        "name": {
+          "de": "135A",
+          "ar": "135A",
+          "pt": "135A",
+          "en": "135A",
+          "fr": "135A",
+          "es": "135A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120439,
+        "name": {
+          "de": "135B",
+          "ar": "135B",
+          "pt": "135B",
+          "en": "135B",
+          "fr": "135B",
+          "es": "135B"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120635,
+        "name": {
+          "de": "227",
+          "ar": "227",
+          "pt": "227",
+          "en": "227",
+          "fr": "227",
+          "es": "227"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120634,
+        "name": {
+          "de": "228",
+          "ar": "228",
+          "pt": "228",
+          "en": "228",
+          "fr": "228",
+          "es": "228"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120633,
+        "name": {
+          "de": "229",
+          "ar": "229",
+          "pt": "229",
+          "en": "229",
+          "fr": "229",
+          "es": "229"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120632,
+        "name": {
+          "de": "230",
+          "ar": "230",
+          "pt": "230",
+          "en": "230",
+          "fr": "230",
+          "es": "230"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120631,
+        "name": {
+          "de": "231",
+          "ar": "231",
+          "pt": "231",
+          "en": "231",
+          "fr": "231",
+          "es": "231"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120630,
+        "name": {
+          "de": "232",
+          "ar": "232",
+          "pt": "232",
+          "en": "232",
+          "fr": "232",
+          "es": "232"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120627,
+        "name": {
+          "de": "233",
+          "ar": "233",
+          "pt": "233",
+          "en": "233",
+          "fr": "233",
+          "es": "233"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120626,
+        "name": {
+          "de": "234",
+          "ar": "234",
+          "pt": "234",
+          "en": "234",
+          "fr": "234",
+          "es": "234"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038017,
+        "name": {
+          "de": "236",
+          "ar": "236",
+          "pt": "236",
+          "en": "236",
+          "fr": "236",
+          "es": "236"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120628,
+        "name": {
+          "de": "239",
+          "ar": "239",
+          "pt": "239",
+          "en": "239",
+          "fr": "239",
+          "es": "239"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120665,
+        "name": {
+          "de": "241",
+          "ar": "241",
+          "pt": "241",
+          "en": "241",
+          "fr": "241",
+          "es": "241"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120662,
+        "name": {
+          "de": "243",
+          "ar": "243",
+          "pt": "243",
+          "en": "243",
+          "fr": "243",
+          "es": "243"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120661,
+        "name": {
+          "de": "244",
+          "ar": "244",
+          "pt": "244",
+          "en": "244",
+          "fr": "244",
+          "es": "244"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120494,
+        "name": {
+          "de": "321",
+          "ar": "321",
+          "pt": "321",
+          "en": "321",
+          "fr": "321",
+          "es": "321"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120573,
+        "name": {
+          "de": "439",
+          "ar": "439",
+          "pt": "439",
+          "en": "439",
+          "fr": "439",
+          "es": "439"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120554,
+        "name": {
+          "de": "446",
+          "ar": "446",
+          "pt": "446",
+          "en": "446",
+          "fr": "446",
+          "es": "446"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120564,
+        "name": {
+          "de": "447",
+          "ar": "447",
+          "pt": "447",
+          "en": "447",
+          "fr": "447",
+          "es": "447"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120528,
+        "name": {
+          "de": "RS38",
+          "ar": "RS38",
+          "pt": "RS38",
+          "en": "RS38",
+          "fr": "RS38",
+          "es": "RS38"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120525,
+        "name": {
+          "de": "RS39",
+          "ar": "RS39",
+          "pt": "RS39",
+          "en": "RS39",
+          "fr": "RS39",
+          "es": "RS39"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120539,
+        "name": {
+          "de": "RS25",
+          "ar": "RS25",
+          "pt": "RS25",
+          "en": "RS25",
+          "fr": "RS25",
+          "es": "RS25"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120538,
+        "name": {
+          "de": "RS26",
+          "ar": "RS26",
+          "pt": "RS26",
+          "en": "RS26",
+          "fr": "RS26",
+          "es": "RS26"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038032,
+        "name": {
+          "de": "301",
+          "ar": "301",
+          "pt": "301",
+          "en": "301",
+          "fr": "301",
+          "es": "301"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038031,
+        "name": {
+          "de": "307",
+          "ar": "307",
+          "pt": "307",
+          "en": "307",
+          "fr": "307",
+          "es": "307"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120658,
+        "name": {
+          "de": "247",
+          "ar": "247",
+          "pt": "247",
+          "en": "247",
+          "fr": "247",
+          "es": "247"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120657,
+        "name": {
+          "de": "248",
+          "ar": "248",
+          "pt": "248",
+          "en": "248",
+          "fr": "248",
+          "es": "248"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120656,
+        "name": {
+          "de": "249",
+          "ar": "249",
+          "pt": "249",
+          "en": "249",
+          "fr": "249",
+          "es": "249"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120655,
+        "name": {
+          "de": "250",
+          "ar": "250",
+          "pt": "250",
+          "en": "250",
+          "fr": "250",
+          "es": "250"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120654,
+        "name": {
+          "de": "251",
+          "ar": "251",
+          "pt": "251",
+          "en": "251",
+          "fr": "251",
+          "es": "251"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120653,
+        "name": {
+          "de": "252",
+          "ar": "252",
+          "pt": "252",
+          "en": "252",
+          "fr": "252",
+          "es": "252"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120652,
+        "name": {
+          "de": "253",
+          "ar": "253",
+          "pt": "253",
+          "en": "253",
+          "fr": "253",
+          "es": "253"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120650,
+        "name": {
+          "de": "255",
+          "ar": "255",
+          "pt": "255",
+          "en": "255",
+          "fr": "255",
+          "es": "255"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120649,
+        "name": {
+          "de": "256",
+          "ar": "256",
+          "pt": "256",
+          "en": "256",
+          "fr": "256",
+          "es": "256"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120648,
+        "name": {
+          "de": "257",
+          "ar": "257",
+          "pt": "257",
+          "en": "257",
+          "fr": "257",
+          "es": "257"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120481,
+        "name": {
+          "de": "339",
+          "ar": "339",
+          "pt": "339",
+          "en": "339",
+          "fr": "339",
+          "es": "339"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120480,
+        "name": {
+          "de": "340",
+          "ar": "340",
+          "pt": "340",
+          "en": "340",
+          "fr": "340",
+          "es": "340"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120603,
+        "name": {
+          "de": "457",
+          "ar": "457",
+          "pt": "457",
+          "en": "457",
+          "fr": "457",
+          "es": "457"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120599,
+        "name": {
+          "de": "461",
+          "ar": "461",
+          "pt": "461",
+          "en": "461",
+          "fr": "461",
+          "es": "461"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120598,
+        "name": {
+          "de": "462",
+          "ar": "462",
+          "pt": "462",
+          "en": "462",
+          "fr": "462",
+          "es": "462"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120597,
+        "name": {
+          "de": "463",
+          "ar": "463",
+          "pt": "463",
+          "en": "463",
+          "fr": "463",
+          "es": "463"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120596,
+        "name": {
+          "de": "464",
+          "ar": "464",
+          "pt": "464",
+          "en": "464",
+          "fr": "464",
+          "es": "464"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120595,
+        "name": {
+          "de": "465",
+          "ar": "465",
+          "pt": "465",
+          "en": "465",
+          "fr": "465",
+          "es": "465"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120519,
+        "name": {
+          "de": "RN55",
+          "ar": "RN55",
+          "pt": "RN55",
+          "en": "RN55",
+          "fr": "RN55",
+          "es": "RN55"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120515,
+        "name": {
+          "de": "RN59",
+          "ar": "RN59",
+          "pt": "RN59",
+          "en": "RN59",
+          "fr": "RN59",
+          "es": "RN59"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120512,
+        "name": {
+          "de": "RN62",
+          "ar": "RN62",
+          "pt": "RN62",
+          "en": "RN62",
+          "fr": "RN62",
+          "es": "RN62"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120513,
+        "name": {
+          "de": "RN63",
+          "ar": "RN63",
+          "pt": "RN63",
+          "en": "RN63",
+          "fr": "RN63",
+          "es": "RN63"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120514,
+        "name": {
+          "de": "RN64",
+          "ar": "RN64",
+          "pt": "RN64",
+          "en": "RN64",
+          "fr": "RN64",
+          "es": "RN64"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393121036,
+        "name": {
+          "de": "249N",
+          "ar": "249N",
+          "pt": "249N",
+          "en": "249N",
+          "fr": "249N",
+          "es": "249N"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393121031,
+        "name": {
+          "de": "250N",
+          "ar": "250N",
+          "pt": "250N",
+          "en": "250N",
+          "fr": "250N",
+          "es": "250N"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393121026,
+        "name": {
+          "de": "251N",
+          "ar": "251N",
+          "pt": "251N",
+          "en": "251N",
+          "fr": "251N",
+          "es": "251N"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393121002,
+        "name": {
+          "de": "256N",
+          "ar": "256N",
+          "pt": "256N",
+          "en": "256N",
+          "fr": "256N",
+          "es": "256N"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120646,
+        "name": {
+          "de": "216",
+          "ar": "216",
+          "pt": "216",
+          "en": "216",
+          "fr": "216",
+          "es": "216"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120644,
+        "name": {
+          "de": "218",
+          "ar": "218",
+          "pt": "218",
+          "en": "218",
+          "fr": "218",
+          "es": "218"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120643,
+        "name": {
+          "de": "219",
+          "ar": "219",
+          "pt": "219",
+          "en": "219",
+          "fr": "219",
+          "es": "219"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120642,
+        "name": {
+          "de": "220",
+          "ar": "220",
+          "pt": "220",
+          "en": "220",
+          "fr": "220",
+          "es": "220"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120641,
+        "name": {
+          "de": "221",
+          "ar": "221",
+          "pt": "221",
+          "en": "221",
+          "fr": "221",
+          "es": "221"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120640,
+        "name": {
+          "de": "222",
+          "ar": "222",
+          "pt": "222",
+          "en": "222",
+          "fr": "222",
+          "es": "222"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120882,
+        "name": {
+          "de": "218S",
+          "ar": "218S",
+          "pt": "218S",
+          "en": "218S",
+          "fr": "218S",
+          "es": "218S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120881,
+        "name": {
+          "de": "219S",
+          "ar": "219S",
+          "pt": "219S",
+          "en": "219S",
+          "fr": "219S",
+          "es": "219S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120880,
+        "name": {
+          "de": "220S",
+          "ar": "220S",
+          "pt": "220S",
+          "en": "220S",
+          "fr": "220S",
+          "es": "220S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120879,
+        "name": {
+          "de": "221S",
+          "ar": "221S",
+          "pt": "221S",
+          "en": "221S",
+          "fr": "221S",
+          "es": "221S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120878,
+        "name": {
+          "de": "222S",
+          "ar": "222S",
+          "pt": "222S",
+          "en": "222S",
+          "fr": "222S",
+          "es": "222S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120877,
+        "name": {
+          "de": "223S",
+          "ar": "223S",
+          "pt": "223S",
+          "en": "223S",
+          "fr": "223S",
+          "es": "223S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120875,
+        "name": {
+          "de": "225S",
+          "ar": "225S",
+          "pt": "225S",
+          "en": "225S",
+          "fr": "225S",
+          "es": "225S"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120710,
+        "name": {
+          "de": "201",
+          "ar": "201",
+          "pt": "201",
+          "en": "201",
+          "fr": "201",
+          "es": "201"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120712,
+        "name": {
+          "de": "203",
+          "ar": "203",
+          "pt": "203",
+          "en": "203",
+          "fr": "203",
+          "es": "203"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120713,
+        "name": {
+          "de": "204",
+          "ar": "204",
+          "pt": "204",
+          "en": "204",
+          "fr": "204",
+          "es": "204"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120714,
+        "name": {
+          "de": "205",
+          "ar": "205",
+          "pt": "205",
+          "en": "205",
+          "fr": "205",
+          "es": "205"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120716,
+        "name": {
+          "de": "211",
+          "ar": "211",
+          "pt": "211",
+          "en": "211",
+          "fr": "211",
+          "es": "211"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120717,
+        "name": {
+          "de": "212",
+          "ar": "212",
+          "pt": "212",
+          "en": "212",
+          "fr": "212",
+          "es": "212"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120718,
+        "name": {
+          "de": "213",
+          "ar": "213",
+          "pt": "213",
+          "en": "213",
+          "fr": "213",
+          "es": "213"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038018,
+        "name": {
+          "de": "128A",
+          "ar": "128A",
+          "pt": "128A",
+          "en": "128A",
+          "fr": "128A",
+          "es": "128A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120444,
+        "name": {
+          "de": "130A",
+          "ar": "130A",
+          "pt": "130A",
+          "en": "130A",
+          "fr": "130A",
+          "es": "130A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120634,
+        "name": {
+          "de": "228",
+          "ar": "228",
+          "pt": "228",
+          "en": "228",
+          "fr": "228",
+          "es": "228"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120575,
+        "name": {
+          "de": "437",
+          "ar": "437",
+          "pt": "437",
+          "en": "437",
+          "fr": "437",
+          "es": "437"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120573,
+        "name": {
+          "de": "439",
+          "ar": "439",
+          "pt": "439",
+          "en": "439",
+          "fr": "439",
+          "es": "439"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120563,
+        "name": {
+          "de": "442",
+          "ar": "442",
+          "pt": "442",
+          "en": "442",
+          "fr": "442",
+          "es": "442"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120564,
+        "name": {
+          "de": "447",
+          "ar": "447",
+          "pt": "447",
+          "en": "447",
+          "fr": "447",
+          "es": "447"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120506,
+        "name": {
+          "de": "309",
+          "ar": "309",
+          "pt": "309",
+          "en": "309",
+          "fr": "309",
+          "es": "309"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120504,
+        "name": {
+          "de": "311",
+          "ar": "311",
+          "pt": "311",
+          "en": "311",
+          "fr": "311",
+          "es": "311"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120497,
+        "name": {
+          "de": "318",
+          "ar": "318",
+          "pt": "318",
+          "en": "318",
+          "fr": "318",
+          "es": "318"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120588,
+        "name": {
+          "de": "421",
+          "ar": "421",
+          "pt": "421",
+          "en": "421",
+          "fr": "421",
+          "es": "421"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120587,
+        "name": {
+          "de": "427",
+          "ar": "427",
+          "pt": "427",
+          "en": "427",
+          "fr": "427",
+          "es": "427"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120578,
+        "name": {
+          "de": "434",
+          "ar": "434",
+          "pt": "434",
+          "en": "434",
+          "fr": "434",
+          "es": "434"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120542,
+        "name": {
+          "de": "RS22",
+          "ar": "RS22",
+          "pt": "RS22",
+          "en": "RS22",
+          "fr": "RS22",
+          "es": "RS22"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120431,
+        "name": {
+          "de": "138",
+          "ar": "138",
+          "pt": "138",
+          "en": "138",
+          "fr": "138",
+          "es": "138"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393038080,
+        "name": {
+          "de": "120",
+          "ar": "120",
+          "pt": "120",
+          "en": "120",
+          "fr": "120",
+          "es": "120"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120524,
+        "name": {
+          "de": "RN50",
+          "ar": "RN50",
+          "pt": "RN50",
+          "en": "RN50",
+          "fr": "RN50",
+          "es": "RN50"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120523,
+        "name": {
+          "de": "RN51",
+          "ar": "RN51",
+          "pt": "RN51",
+          "en": "RN51",
+          "fr": "RN51",
+          "es": "RN51"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120522,
+        "name": {
+          "de": "RN52",
+          "ar": "RN52",
+          "pt": "RN52",
+          "en": "RN52",
+          "fr": "RN52",
+          "es": "RN52"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120599,
+        "name": {
+          "de": "461",
+          "ar": "461",
+          "pt": "461",
+          "en": "461",
+          "fr": "461",
+          "es": "461"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120599,
+        "name": {
+          "de": "461",
+          "ar": "461",
+          "pt": "461",
+          "en": "461",
+          "fr": "461",
+          "es": "461"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120510,
+        "name": {
+          "de": "RN60",
+          "ar": "RN60",
+          "pt": "RN60",
+          "en": "RN60",
+          "fr": "RN60",
+          "es": "RN60"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 1",
+        "en": "Category 1",
+        "fr": "Cat\u00e9gorie\u00a01",
+        "es": "Categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120511,
+        "name": {
+          "de": "RN61",
+          "ar": "RN61",
+          "pt": "RN61",
+          "en": "RN61",
+          "fr": "RN61",
+          "es": "RN61"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121693,
+        "name": {
+          "de": "555",
+          "ar": "555",
+          "pt": "555",
+          "en": "555",
+          "fr": "555",
+          "es": "555"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121692,
+        "name": {
+          "de": "556",
+          "ar": "556",
+          "pt": "556",
+          "en": "556",
+          "fr": "556",
+          "es": "556"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121684,
+        "name": {
+          "de": "564",
+          "ar": "564",
+          "pt": "564",
+          "en": "564",
+          "fr": "564",
+          "es": "564"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121683,
+        "name": {
+          "de": "565",
+          "ar": "565",
+          "pt": "565",
+          "en": "565",
+          "fr": "565",
+          "es": "565"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121682,
+        "name": {
+          "de": "566",
+          "ar": "566",
+          "pt": "566",
+          "en": "566",
+          "fr": "566",
+          "es": "566"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121681,
+        "name": {
+          "de": "567",
+          "ar": "567",
+          "pt": "567",
+          "en": "567",
+          "fr": "567",
+          "es": "567"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121680,
+        "name": {
+          "de": "568",
+          "ar": "568",
+          "pt": "568",
+          "en": "568",
+          "fr": "568",
+          "es": "568"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121659,
+        "name": {
+          "de": "520",
+          "ar": "520",
+          "pt": "520",
+          "en": "520",
+          "fr": "520",
+          "es": "520"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121658,
+        "name": {
+          "de": "521",
+          "ar": "521",
+          "pt": "521",
+          "en": "521",
+          "fr": "521",
+          "es": "521"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121660,
+        "name": {
+          "de": "522",
+          "ar": "522",
+          "pt": "522",
+          "en": "522",
+          "fr": "522",
+          "es": "522"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121657,
+        "name": {
+          "de": "523",
+          "ar": "523",
+          "pt": "523",
+          "en": "523",
+          "fr": "523",
+          "es": "523"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121649,
+        "name": {
+          "de": "531",
+          "ar": "531",
+          "pt": "531",
+          "en": "531",
+          "fr": "531",
+          "es": "531"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121648,
+        "name": {
+          "de": "532",
+          "ar": "532",
+          "pt": "532",
+          "en": "532",
+          "fr": "532",
+          "es": "532"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121647,
+        "name": {
+          "de": "533",
+          "ar": "533",
+          "pt": "533",
+          "en": "533",
+          "fr": "533",
+          "es": "533"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121646,
+        "name": {
+          "de": "534",
+          "ar": "534",
+          "pt": "534",
+          "en": "534",
+          "fr": "534",
+          "es": "534"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121645,
+        "name": {
+          "de": "535",
+          "ar": "535",
+          "pt": "535",
+          "en": "535",
+          "fr": "535",
+          "es": "535"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121661,
+        "name": {
+          "de": "501",
+          "ar": "501",
+          "pt": "501",
+          "en": "501",
+          "fr": "501",
+          "es": "501"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121662,
+        "name": {
+          "de": "502",
+          "ar": "502",
+          "pt": "502",
+          "en": "502",
+          "fr": "502",
+          "es": "502"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121663,
+        "name": {
+          "de": "503",
+          "ar": "503",
+          "pt": "503",
+          "en": "503",
+          "fr": "503",
+          "es": "503"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121664,
+        "name": {
+          "de": "504",
+          "ar": "504",
+          "pt": "504",
+          "en": "504",
+          "fr": "504",
+          "es": "504"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121665,
+        "name": {
+          "de": "505",
+          "ar": "505",
+          "pt": "505",
+          "en": "505",
+          "fr": "505",
+          "es": "505"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121666,
+        "name": {
+          "de": "506",
+          "ar": "506",
+          "pt": "506",
+          "en": "506",
+          "fr": "506",
+          "es": "506"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121667,
+        "name": {
+          "de": "507",
+          "ar": "507",
+          "pt": "507",
+          "en": "507",
+          "fr": "507",
+          "es": "507"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121673,
+        "name": {
+          "de": "513",
+          "ar": "513",
+          "pt": "513",
+          "en": "513",
+          "fr": "513",
+          "es": "513"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121674,
+        "name": {
+          "de": "514",
+          "ar": "514",
+          "pt": "514",
+          "en": "514",
+          "fr": "514",
+          "es": "514"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121675,
+        "name": {
+          "de": "515",
+          "ar": "515",
+          "pt": "515",
+          "en": "515",
+          "fr": "515",
+          "es": "515"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121679,
+        "name": {
+          "de": "519",
+          "ar": "519",
+          "pt": "519",
+          "en": "519",
+          "fr": "519",
+          "es": "519"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121644,
+        "name": {
+          "de": "536",
+          "ar": "536",
+          "pt": "536",
+          "en": "536",
+          "fr": "536",
+          "es": "536"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121643,
+        "name": {
+          "de": "537",
+          "ar": "537",
+          "pt": "537",
+          "en": "537",
+          "fr": "537",
+          "es": "537"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121642,
+        "name": {
+          "de": "538",
+          "ar": "538",
+          "pt": "538",
+          "en": "538",
+          "fr": "538",
+          "es": "538"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121641,
+        "name": {
+          "de": "539",
+          "ar": "539",
+          "pt": "539",
+          "en": "539",
+          "fr": "539",
+          "es": "539"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121640,
+        "name": {
+          "de": "540",
+          "ar": "540",
+          "pt": "540",
+          "en": "540",
+          "fr": "540",
+          "es": "540"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121639,
+        "name": {
+          "de": "541",
+          "ar": "541",
+          "pt": "541",
+          "en": "541",
+          "fr": "541",
+          "es": "541"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121638,
+        "name": {
+          "de": "542",
+          "ar": "542",
+          "pt": "542",
+          "en": "542",
+          "fr": "542",
+          "es": "542"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121637,
+        "name": {
+          "de": "543",
+          "ar": "543",
+          "pt": "543",
+          "en": "543",
+          "fr": "543",
+          "es": "543"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121636,
+        "name": {
+          "de": "544",
+          "ar": "544",
+          "pt": "544",
+          "en": "544",
+          "fr": "544",
+          "es": "544"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121635,
+        "name": {
+          "de": "545",
+          "ar": "545",
+          "pt": "545",
+          "en": "545",
+          "fr": "545",
+          "es": "545"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121634,
+        "name": {
+          "de": "546",
+          "ar": "546",
+          "pt": "546",
+          "en": "546",
+          "fr": "546",
+          "es": "546"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121633,
+        "name": {
+          "de": "547",
+          "ar": "547",
+          "pt": "547",
+          "en": "547",
+          "fr": "547",
+          "es": "547"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121632,
+        "name": {
+          "de": "548",
+          "ar": "548",
+          "pt": "548",
+          "en": "548",
+          "fr": "548",
+          "es": "548"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120623,
+        "name": {
+          "de": "PC23",
+          "ar": "PC23",
+          "pt": "PC23",
+          "en": "PC23",
+          "fr": "PC23",
+          "es": "PC23"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120624,
+        "name": {
+          "de": "PC24",
+          "ar": "PC24",
+          "pt": "PC24",
+          "en": "PC24",
+          "fr": "PC24",
+          "es": "PC24"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120625,
+        "name": {
+          "de": "PC25",
+          "ar": "PC25",
+          "pt": "PC25",
+          "en": "PC25",
+          "fr": "PC25",
+          "es": "PC25"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120545,
+        "name": {
+          "de": "PC01",
+          "ar": "PC01",
+          "pt": "PC01",
+          "en": "PC01",
+          "fr": "PC01",
+          "es": "PC01"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120546,
+        "name": {
+          "de": "PC02",
+          "ar": "PC02",
+          "pt": "PC02",
+          "en": "PC02",
+          "fr": "PC02",
+          "es": "PC02"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120547,
+        "name": {
+          "de": "PC03",
+          "ar": "PC03",
+          "pt": "PC03",
+          "en": "PC03",
+          "fr": "PC03",
+          "es": "PC03"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120548,
+        "name": {
+          "de": "PC04",
+          "ar": "PC04",
+          "pt": "PC04",
+          "en": "PC04",
+          "fr": "PC04",
+          "es": "PC04"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120552,
+        "name": {
+          "de": "PC05",
+          "ar": "PC05",
+          "pt": "PC05",
+          "en": "PC05",
+          "fr": "PC05",
+          "es": "PC05"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120553,
+        "name": {
+          "de": "PC06",
+          "ar": "PC06",
+          "pt": "PC06",
+          "en": "PC06",
+          "fr": "PC06",
+          "es": "PC06"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120607,
+        "name": {
+          "de": "PC07",
+          "ar": "PC07",
+          "pt": "PC07",
+          "en": "PC07",
+          "fr": "PC07",
+          "es": "PC07"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120608,
+        "name": {
+          "de": "PC08",
+          "ar": "PC08",
+          "pt": "PC08",
+          "en": "PC08",
+          "fr": "PC08",
+          "es": "PC08"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120609,
+        "name": {
+          "de": "PC09",
+          "ar": "PC09",
+          "pt": "PC09",
+          "en": "PC09",
+          "fr": "PC09",
+          "es": "PC09"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121684,
+        "name": {
+          "de": "564",
+          "ar": "564",
+          "pt": "564",
+          "en": "564",
+          "fr": "564",
+          "es": "564"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120610,
+        "name": {
+          "de": "PC10",
+          "ar": "PC10",
+          "pt": "PC10",
+          "en": "PC10",
+          "fr": "PC10",
+          "es": "PC10"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120610,
+        "name": {
+          "de": "PC10",
+          "ar": "PC10",
+          "pt": "PC10",
+          "en": "PC10",
+          "fr": "PC10",
+          "es": "PC10"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120611,
+        "name": {
+          "de": "PC11",
+          "ar": "PC11",
+          "pt": "PC11",
+          "en": "PC11",
+          "fr": "PC11",
+          "es": "PC11"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120612,
+        "name": {
+          "de": "PC12",
+          "ar": "PC12",
+          "pt": "PC12",
+          "en": "PC12",
+          "fr": "PC12",
+          "es": "PC12"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120614,
+        "name": {
+          "de": "PC14",
+          "ar": "PC14",
+          "pt": "PC14",
+          "en": "PC14",
+          "fr": "PC14",
+          "es": "PC14"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120615,
+        "name": {
+          "de": "PC15",
+          "ar": "PC15",
+          "pt": "PC15",
+          "en": "PC15",
+          "fr": "PC15",
+          "es": "PC15"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120616,
+        "name": {
+          "de": "PC16",
+          "ar": "PC16",
+          "pt": "PC16",
+          "en": "PC16",
+          "fr": "PC16",
+          "es": "PC16"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120617,
+        "name": {
+          "de": "PC17",
+          "ar": "PC17",
+          "pt": "PC17",
+          "en": "PC17",
+          "fr": "PC17",
+          "es": "PC17"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120618,
+        "name": {
+          "de": "PC18",
+          "ar": "PC18",
+          "pt": "PC18",
+          "en": "PC18",
+          "fr": "PC18",
+          "es": "PC18"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120619,
+        "name": {
+          "de": "PC19",
+          "ar": "PC19",
+          "pt": "PC19",
+          "en": "PC19",
+          "fr": "PC19",
+          "es": "PC19"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120620,
+        "name": {
+          "de": "PC20",
+          "ar": "PC20",
+          "pt": "PC20",
+          "en": "PC20",
+          "fr": "PC20",
+          "es": "PC20"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120621,
+        "name": {
+          "de": "PC21",
+          "ar": "PC21",
+          "pt": "PC21",
+          "en": "PC21",
+          "fr": "PC21",
+          "es": "PC21"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120622,
+        "name": {
+          "de": "PC22",
+          "ar": "PC22",
+          "pt": "PC22",
+          "en": "PC22",
+          "fr": "PC22",
+          "es": "PC22"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 2",
+        "en": "Category 2",
+        "fr": "Cat\u00e9gorie\u00a02",
+        "es": "Categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393120623,
+        "name": {
+          "de": "PC23",
+          "ar": "PC23",
+          "pt": "PC23",
+          "en": "PC23",
+          "fr": "PC23",
+          "es": "PC23"
+        }
+      },
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121590,
+        "name": {
+          "de": "667",
+          "ar": "667",
+          "pt": "667",
+          "en": "667",
+          "fr": "667",
+          "es": "667"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121589,
+        "name": {
+          "de": "668",
+          "ar": "668",
+          "pt": "668",
+          "en": "668",
+          "fr": "668",
+          "es": "668"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121588,
+        "name": {
+          "de": "669",
+          "ar": "669",
+          "pt": "669",
+          "en": "669",
+          "fr": "669",
+          "es": "669"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121626,
+        "name": {
+          "de": "620",
+          "ar": "620",
+          "pt": "620",
+          "en": "620",
+          "fr": "620",
+          "es": "620"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121627,
+        "name": {
+          "de": "621",
+          "ar": "621",
+          "pt": "621",
+          "en": "621",
+          "fr": "621",
+          "es": "621"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121609,
+        "name": {
+          "de": "603",
+          "ar": "603",
+          "pt": "603",
+          "en": "603",
+          "fr": "603",
+          "es": "603"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121610,
+        "name": {
+          "de": "604",
+          "ar": "604",
+          "pt": "604",
+          "en": "604",
+          "fr": "604",
+          "es": "604"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121611,
+        "name": {
+          "de": "605",
+          "ar": "605",
+          "pt": "605",
+          "en": "605",
+          "fr": "605",
+          "es": "605"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121612,
+        "name": {
+          "de": "606",
+          "ar": "606",
+          "pt": "606",
+          "en": "606",
+          "fr": "606",
+          "es": "606"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121618,
+        "name": {
+          "de": "612",
+          "ar": "612",
+          "pt": "612",
+          "en": "612",
+          "fr": "612",
+          "es": "612"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121623,
+        "name": {
+          "de": "617",
+          "ar": "617",
+          "pt": "617",
+          "en": "617",
+          "fr": "617",
+          "es": "617"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121598,
+        "name": {
+          "de": "656",
+          "ar": "656",
+          "pt": "656",
+          "en": "656",
+          "fr": "656",
+          "es": "656"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121597,
+        "name": {
+          "de": "657",
+          "ar": "657",
+          "pt": "657",
+          "en": "657",
+          "fr": "657",
+          "es": "657"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121596,
+        "name": {
+          "de": "658",
+          "ar": "658",
+          "pt": "658",
+          "en": "658",
+          "fr": "658",
+          "es": "658"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121595,
+        "name": {
+          "de": "659",
+          "ar": "659",
+          "pt": "659",
+          "en": "659",
+          "fr": "659",
+          "es": "659"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121591,
+        "name": {
+          "de": "666",
+          "ar": "666",
+          "pt": "666",
+          "en": "666",
+          "fr": "666",
+          "es": "666"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121590,
+        "name": {
+          "de": "667",
+          "ar": "667",
+          "pt": "667",
+          "en": "667",
+          "fr": "667",
+          "es": "667"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121626,
+        "name": {
+          "de": "620",
+          "ar": "620",
+          "pt": "620",
+          "en": "620",
+          "fr": "620",
+          "es": "620"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121627,
+        "name": {
+          "de": "621",
+          "ar": "621",
+          "pt": "621",
+          "en": "621",
+          "fr": "621",
+          "es": "621"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121628,
+        "name": {
+          "de": "622",
+          "ar": "622",
+          "pt": "622",
+          "en": "622",
+          "fr": "622",
+          "es": "622"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121629,
+        "name": {
+          "de": "623",
+          "ar": "623",
+          "pt": "623",
+          "en": "623",
+          "fr": "623",
+          "es": "623"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121630,
+        "name": {
+          "de": "624",
+          "ar": "624",
+          "pt": "624",
+          "en": "624",
+          "fr": "624",
+          "es": "624"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121607,
+        "name": {
+          "de": "630",
+          "ar": "630",
+          "pt": "630",
+          "en": "630",
+          "fr": "630",
+          "es": "630"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121606,
+        "name": {
+          "de": "631",
+          "ar": "631",
+          "pt": "631",
+          "en": "631",
+          "fr": "631",
+          "es": "631"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121605,
+        "name": {
+          "de": "632",
+          "ar": "632",
+          "pt": "632",
+          "en": "632",
+          "fr": "632",
+          "es": "632"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121604,
+        "name": {
+          "de": "633",
+          "ar": "633",
+          "pt": "633",
+          "en": "633",
+          "fr": "633",
+          "es": "633"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121603,
+        "name": {
+          "de": "634",
+          "ar": "634",
+          "pt": "634",
+          "en": "634",
+          "fr": "634",
+          "es": "634"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121585,
+        "name": {
+          "de": "602",
+          "ar": "602",
+          "pt": "602",
+          "en": "602",
+          "fr": "602",
+          "es": "602"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121609,
+        "name": {
+          "de": "603",
+          "ar": "603",
+          "pt": "603",
+          "en": "603",
+          "fr": "603",
+          "es": "603"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121611,
+        "name": {
+          "de": "605",
+          "ar": "605",
+          "pt": "605",
+          "en": "605",
+          "fr": "605",
+          "es": "605"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121612,
+        "name": {
+          "de": "606",
+          "ar": "606",
+          "pt": "606",
+          "en": "606",
+          "fr": "606",
+          "es": "606"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121613,
+        "name": {
+          "de": "607",
+          "ar": "607",
+          "pt": "607",
+          "en": "607",
+          "fr": "607",
+          "es": "607"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121622,
+        "name": {
+          "de": "616",
+          "ar": "616",
+          "pt": "616",
+          "en": "616",
+          "fr": "616",
+          "es": "616"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121623,
+        "name": {
+          "de": "617",
+          "ar": "617",
+          "pt": "617",
+          "en": "617",
+          "fr": "617",
+          "es": "617"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121600,
+        "name": {
+          "de": "637",
+          "ar": "637",
+          "pt": "637",
+          "en": "637",
+          "fr": "637",
+          "es": "637"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121599,
+        "name": {
+          "de": "638",
+          "ar": "638",
+          "pt": "638",
+          "en": "638",
+          "fr": "638",
+          "es": "638"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121584,
+        "name": {
+          "de": "639",
+          "ar": "639",
+          "pt": "639",
+          "en": "639",
+          "fr": "639",
+          "es": "639"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121575,
+        "name": {
+          "de": "649",
+          "ar": "649",
+          "pt": "649",
+          "en": "649",
+          "fr": "649",
+          "es": "649"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121595,
+        "name": {
+          "de": "659",
+          "ar": "659",
+          "pt": "659",
+          "en": "659",
+          "fr": "659",
+          "es": "659"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121594,
+        "name": {
+          "de": "660",
+          "ar": "660",
+          "pt": "660",
+          "en": "660",
+          "fr": "660",
+          "es": "660"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121593,
+        "name": {
+          "de": "664",
+          "ar": "664",
+          "pt": "664",
+          "en": "664",
+          "fr": "664",
+          "es": "664"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121592,
+        "name": {
+          "de": "665",
+          "ar": "665",
+          "pt": "665",
+          "en": "665",
+          "fr": "665",
+          "es": "665"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121591,
+        "name": {
+          "de": "666",
+          "ar": "666",
+          "pt": "666",
+          "en": "666",
+          "fr": "666",
+          "es": "666"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121590,
+        "name": {
+          "de": "667",
+          "ar": "667",
+          "pt": "667",
+          "en": "667",
+          "fr": "667",
+          "es": "667"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121589,
+        "name": {
+          "de": "668",
+          "ar": "668",
+          "pt": "668",
+          "en": "668",
+          "fr": "668",
+          "es": "668"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121588,
+        "name": {
+          "de": "669",
+          "ar": "669",
+          "pt": "669",
+          "en": "669",
+          "fr": "669",
+          "es": "669"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121630,
+        "name": {
+          "de": "624",
+          "ar": "624",
+          "pt": "624",
+          "en": "624",
+          "fr": "624",
+          "es": "624"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121631,
+        "name": {
+          "de": "625",
+          "ar": "625",
+          "pt": "625",
+          "en": "625",
+          "fr": "625",
+          "es": "625"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121608,
+        "name": {
+          "de": "629",
+          "ar": "629",
+          "pt": "629",
+          "en": "629",
+          "fr": "629",
+          "es": "629"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121607,
+        "name": {
+          "de": "630",
+          "ar": "630",
+          "pt": "630",
+          "en": "630",
+          "fr": "630",
+          "es": "630"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121585,
+        "name": {
+          "de": "602",
+          "ar": "602",
+          "pt": "602",
+          "en": "602",
+          "fr": "602",
+          "es": "602"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121609,
+        "name": {
+          "de": "603",
+          "ar": "603",
+          "pt": "603",
+          "en": "603",
+          "fr": "603",
+          "es": "603"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121610,
+        "name": {
+          "de": "604",
+          "ar": "604",
+          "pt": "604",
+          "en": "604",
+          "fr": "604",
+          "es": "604"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121611,
+        "name": {
+          "de": "605",
+          "ar": "605",
+          "pt": "605",
+          "en": "605",
+          "fr": "605",
+          "es": "605"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121575,
+        "name": {
+          "de": "649",
+          "ar": "649",
+          "pt": "649",
+          "en": "649",
+          "fr": "649",
+          "es": "649"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Kategorie 3",
+        "en": "Category 3",
+        "fr": "Cat\u00e9gorie\u00a03",
+        "es": "Categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393121574,
+        "name": {
+          "de": "650",
+          "ar": "650",
+          "pt": "650",
+          "en": "650",
+          "fr": "650",
+          "es": "650"
+        }
+      },
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Technische Sitzpl\u00e4tze",
+        "en": "Technical",
+        "fr": "Technique",
+        "es": "T\u00e9cnico"
+      },
+      "block": {
+        "id": 10229393120445,
+        "name": {
+          "de": "126A",
+          "ar": "126A",
+          "pt": "126A",
+          "en": "126A",
+          "fr": "126A",
+          "es": "126A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2355000
+    },
+    {
+      "category": {
+        "de": "Technische Sitzpl\u00e4tze",
+        "en": "Technical",
+        "fr": "Technique",
+        "es": "T\u00e9cnico"
+      },
+      "block": {
+        "id": 10229393120442,
+        "name": {
+          "de": "132A",
+          "ar": "132A",
+          "pt": "132A",
+          "en": "132A",
+          "fr": "132A",
+          "es": "132A"
+        }
+      },
+      "min_price": 2355000,
+      "max_price": 2355000
+    },
+    {
+      "category": {
+        "de": "Kategorie 4",
+        "en": "Category 4",
+        "fr": "Cat\u00e9gorie\u00a04",
+        "es": "Categor\u00eda 4"
+      },
+      "block": {
+        "id": 10229393121587,
+        "name": {
+          "de": "670",
+          "ar": "670",
+          "pt": "670",
+          "en": "670",
+          "fr": "670",
+          "es": "670"
+        }
+      },
+      "min_price": 370000,
+      "max_price": 370000
+    },
+    {
+      "category": {
+        "de": "Kategorie 4",
+        "en": "Category 4",
+        "fr": "Cat\u00e9gorie\u00a04",
+        "es": "Categor\u00eda 4"
+      },
+      "block": {
+        "id": 10229393121625,
+        "name": {
+          "de": "619",
+          "ar": "619",
+          "pt": "619",
+          "en": "619",
+          "fr": "619",
+          "es": "619"
+        }
+      },
+      "min_price": 370000,
+      "max_price": 370000
+    },
+    {
+      "category": {
+        "de": "Kategorie 4",
+        "en": "Category 4",
+        "fr": "Cat\u00e9gorie\u00a04",
+        "es": "Categor\u00eda 4"
+      },
+      "block": {
+        "id": 10229393121602,
+        "name": {
+          "de": "635",
+          "ar": "635",
+          "pt": "635",
+          "en": "635",
+          "fr": "635",
+          "es": "635"
+        }
+      },
+      "min_price": 370000,
+      "max_price": 370000
+    },
+    {
+      "category": {
+        "de": "Kategorie 4",
+        "en": "Category 4",
+        "fr": "Cat\u00e9gorie\u00a04",
+        "es": "Categor\u00eda 4"
+      },
+      "block": {
+        "id": 10229393121601,
+        "name": {
+          "de": "636",
+          "ar": "636",
+          "pt": "636",
+          "en": "636",
+          "fr": "636",
+          "es": "636"
+        }
+      },
+      "min_price": 370000,
+      "max_price": 370000
+    },
+    {
+      "category": {
+        "de": "Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User - Category 1",
+        "fr": "Utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Persona usuaria de silla de ruedas: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229673487620,
+        "name": {
+          "de": "338D",
+          "ar": "338D",
+          "pt": "338D",
+          "en": "338D",
+          "fr": "338D",
+          "es": "338D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User - Category 1",
+        "fr": "Utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Persona usuaria de silla de ruedas: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120672,
+        "name": {
+          "de": "123D",
+          "ar": "123D",
+          "pt": "123D",
+          "en": "123D",
+          "fr": "123D",
+          "es": "123D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User - Category 1",
+        "fr": "Utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Persona usuaria de silla de ruedas: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120691,
+        "name": {
+          "de": "135D",
+          "ar": "135D",
+          "pt": "135D",
+          "en": "135D",
+          "fr": "135D",
+          "es": "135D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User - Category 1",
+        "fr": "Utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Persona usuaria de silla de ruedas: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229673487617,
+        "name": {
+          "de": "311D",
+          "ar": "311D",
+          "pt": "311D",
+          "en": "311D",
+          "fr": "311D",
+          "es": "311D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User - Category 1",
+        "fr": "Utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Persona usuaria de silla de ruedas: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229673487618,
+        "name": {
+          "de": "316D",
+          "ar": "316D",
+          "pt": "316D",
+          "en": "316D",
+          "fr": "316D",
+          "es": "316D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Begleitperson Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User Companion - Category 1",
+        "fr": "Accompagnant utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Acompa\u00f1ante de persona en silla de ruedas: cat. 1"
+      },
+      "block": {
+        "id": 10229673487620,
+        "name": {
+          "de": "338D",
+          "ar": "338D",
+          "pt": "338D",
+          "en": "338D",
+          "fr": "338D",
+          "es": "338D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Begleitperson Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User Companion - Category 1",
+        "fr": "Accompagnant utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Acompa\u00f1ante de persona en silla de ruedas: cat. 1"
+      },
+      "block": {
+        "id": 10229393120691,
+        "name": {
+          "de": "135D",
+          "ar": "135D",
+          "pt": "135D",
+          "en": "135D",
+          "fr": "135D",
+          "es": "135D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Begleitperson Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User Companion - Category 1",
+        "fr": "Accompagnant utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Acompa\u00f1ante de persona en silla de ruedas: cat. 1"
+      },
+      "block": {
+        "id": 10229673487617,
+        "name": {
+          "de": "311D",
+          "ar": "311D",
+          "pt": "311D",
+          "en": "311D",
+          "fr": "311D",
+          "es": "311D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Begleitperson Rollstuhlfahrer \u2013 Kategorie 1",
+        "en": "Wheelchair User Companion - Category 1",
+        "fr": "Accompagnant utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Acompa\u00f1ante de persona en silla de ruedas: cat. 1"
+      },
+      "block": {
+        "id": 10229673487618,
+        "name": {
+          "de": "316D",
+          "ar": "316D",
+          "pt": "316D",
+          "en": "316D",
+          "fr": "316D",
+          "es": "316D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Rollstuhlfahrer \u2013 Kategorie 3",
+        "en": "Wheelchair User - Category 3",
+        "fr": "Utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a03",
+        "es": "Persona usuaria de silla de ruedas: categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393120558,
+        "name": {
+          "de": "337D",
+          "ar": "337D",
+          "pt": "337D",
+          "en": "337D",
+          "fr": "337D",
+          "es": "337D"
+        }
+      },
+      "min_price": 1410000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Rollstuhlfahrer \u2013 Kategorie 3",
+        "en": "Wheelchair User - Category 3",
+        "fr": "Utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a03",
+        "es": "Persona usuaria de silla de ruedas: categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393120557,
+        "name": {
+          "de": "313D",
+          "ar": "313D",
+          "pt": "313D",
+          "en": "313D",
+          "fr": "313D",
+          "es": "313D"
+        }
+      },
+      "min_price": 1410000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Rollstuhlfahrer \u2013 Kategorie 3",
+        "en": "Wheelchair User - Category 3",
+        "fr": "Utilisateur de fauteuil roulant \u2013 Cat\u00e9gorie\u00a03",
+        "es": "Persona usuaria de silla de ruedas: categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393120555,
+        "name": {
+          "de": "314D",
+          "ar": "314D",
+          "pt": "314D",
+          "en": "314D",
+          "fr": "314D",
+          "es": "314D"
+        }
+      },
+      "min_price": 1410000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Standard \u2013 Kategorie 2",
+        "en": "Easy Access Standard - Category 2",
+        "fr": "Acc\u00e8s facile standard \u2013 Cat\u00e9gorie\u00a02",
+        "es": "Accesibilidad est\u00e1ndar: categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121691,
+        "name": {
+          "de": "557",
+          "ar": "557",
+          "pt": "557",
+          "en": "557",
+          "fr": "557",
+          "es": "557"
+        }
+      },
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Standard \u2013 Kategorie 2",
+        "en": "Easy Access Standard - Category 2",
+        "fr": "Acc\u00e8s facile standard \u2013 Cat\u00e9gorie\u00a02",
+        "es": "Accesibilidad est\u00e1ndar: categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121681,
+        "name": {
+          "de": "567",
+          "ar": "567",
+          "pt": "567",
+          "en": "567",
+          "fr": "567",
+          "es": "567"
+        }
+      },
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Standard \u2013 Kategorie 2",
+        "en": "Easy Access Standard - Category 2",
+        "fr": "Acc\u00e8s facile standard \u2013 Cat\u00e9gorie\u00a02",
+        "es": "Accesibilidad est\u00e1ndar: categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121657,
+        "name": {
+          "de": "523",
+          "ar": "523",
+          "pt": "523",
+          "en": "523",
+          "fr": "523",
+          "es": "523"
+        }
+      },
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Standard \u2013 Kategorie 2",
+        "en": "Easy Access Standard - Category 2",
+        "fr": "Acc\u00e8s facile standard \u2013 Cat\u00e9gorie\u00a02",
+        "es": "Accesibilidad est\u00e1ndar: categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121645,
+        "name": {
+          "de": "535",
+          "ar": "535",
+          "pt": "535",
+          "en": "535",
+          "fr": "535",
+          "es": "535"
+        }
+      },
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Standard \u2013 Kategorie 2",
+        "en": "Easy Access Standard - Category 2",
+        "fr": "Acc\u00e8s facile standard \u2013 Cat\u00e9gorie\u00a02",
+        "es": "Accesibilidad est\u00e1ndar: categor\u00eda 2"
+      },
+      "block": {
+        "id": 10229393121639,
+        "name": {
+          "de": "541",
+          "ar": "541",
+          "pt": "541",
+          "en": "541",
+          "fr": "541",
+          "es": "541"
+        }
+      },
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Extra \u2013 Kategorie 1",
+        "en": "Easy Access Amenity - Category 1",
+        "fr": "Acc\u00e8s facile am\u00e9nag\u00e9 \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Accesibilidad con espacio adicional: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120666,
+        "name": {
+          "de": "143D",
+          "ar": "143D",
+          "pt": "143D",
+          "en": "143D",
+          "fr": "143D",
+          "es": "143D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Extra \u2013 Kategorie 1",
+        "en": "Easy Access Amenity - Category 1",
+        "fr": "Acc\u00e8s facile am\u00e9nag\u00e9 \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Accesibilidad con espacio adicional: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120667,
+        "name": {
+          "de": "144D",
+          "ar": "144D",
+          "pt": "144D",
+          "en": "144D",
+          "fr": "144D",
+          "es": "144D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Extra \u2013 Kategorie 1",
+        "en": "Easy Access Amenity - Category 1",
+        "fr": "Acc\u00e8s facile am\u00e9nag\u00e9 \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Accesibilidad con espacio adicional: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120668,
+        "name": {
+          "de": "145D",
+          "ar": "145D",
+          "pt": "145D",
+          "en": "145D",
+          "fr": "145D",
+          "es": "145D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Extra \u2013 Kategorie 1",
+        "en": "Easy Access Amenity - Category 1",
+        "fr": "Acc\u00e8s facile am\u00e9nag\u00e9 \u2013 Cat\u00e9gorie\u00a01",
+        "es": "Accesibilidad con espacio adicional: categor\u00eda 1"
+      },
+      "block": {
+        "id": 10229393120669,
+        "name": {
+          "de": "146D",
+          "ar": "146D",
+          "pt": "146D",
+          "en": "146D",
+          "fr": "146D",
+          "es": "146D"
+        }
+      },
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Extra \u2013 Kategorie 3",
+        "en": "Easy Access Amenity - Category 3",
+        "fr": "Acc\u00e8s facile am\u00e9nag\u00e9 \u2013 Cat\u00e9gorie\u00a03",
+        "es": "Accesibilidad con espacio adicional: categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393120687,
+        "name": {
+          "de": "139D",
+          "ar": "139D",
+          "pt": "139D",
+          "en": "139D",
+          "fr": "139D",
+          "es": "139D"
+        }
+      },
+      "min_price": 1410000,
+      "max_price": 1410000
+    },
+    {
+      "category": {
+        "de": "Barrierefreier Zugang Extra \u2013 Kategorie 3",
+        "en": "Easy Access Amenity - Category 3",
+        "fr": "Acc\u00e8s facile am\u00e9nag\u00e9 \u2013 Cat\u00e9gorie\u00a03",
+        "es": "Accesibilidad con espacio adicional: categor\u00eda 3"
+      },
+      "block": {
+        "id": 10229393120686,
+        "name": {
+          "de": "140D",
+          "ar": "140D",
+          "pt": "140D",
+          "en": "140D",
+          "fr": "140D",
+          "es": "140D"
+        }
+      },
+      "min_price": 1410000,
+      "max_price": 1410000
+    }
+  ]
+}
