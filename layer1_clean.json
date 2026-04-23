@@ -1,0 +1,1854 @@
+{
+  "timestamp": "2026-04-22T14:39:03.887430+00:00",
+  "total_blocks": 264,
+  "data": [
+    {
+      "category": "Category 1",
+      "block": 10229393038032,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038015,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038031,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038033,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120435,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120436,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120433,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120423,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120421,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120419,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120417,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120660,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120659,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120482,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120598,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120597,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120593,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120592,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393121057,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393121051,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120415,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038080,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120409,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120413,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120414,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120636,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120880,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120874,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120873,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120872,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120448,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120447,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120446,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120464,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120445,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120463,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038019,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120462,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038018,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038020,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038011,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038016,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120444,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038022,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120443,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120477,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120442,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120476,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120441,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120461,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120440,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120460,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120438,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120439,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120635,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120634,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120633,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120632,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120631,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120630,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120627,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120626,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393038017,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120628,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120665,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120662,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120661,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120494,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120573,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120554,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120564,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120528,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120525,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120539,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120538,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120658,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120657,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120656,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120655,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120654,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120653,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120652,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120650,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120649,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120648,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120481,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120480,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120603,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120599,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120596,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120595,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120519,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120515,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120512,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120513,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120514,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393121036,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393121031,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393121026,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393121002,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120646,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120644,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120643,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120642,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120641,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120640,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120882,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120881,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120879,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120878,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120877,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120875,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120710,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120712,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120713,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120714,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120716,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120717,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120718,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120575,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120563,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120506,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120504,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120497,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120588,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120587,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120578,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120542,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120431,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120524,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120523,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120522,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120510,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 1",
+      "block": 10229393120511,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121693,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121692,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121684,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121683,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121682,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121681,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121680,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121659,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121658,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121660,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121657,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121649,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121648,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121647,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121646,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121645,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121661,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121662,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121663,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121664,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121665,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121666,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121667,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121673,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121674,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121675,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121679,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121644,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121643,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121642,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121641,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121640,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121639,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121638,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121637,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121636,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121635,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121634,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121633,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393121632,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120623,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120624,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120625,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120545,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120546,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120547,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120548,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120552,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120553,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120607,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120608,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120609,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120610,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120611,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120612,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120614,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120615,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120616,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120617,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120618,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120619,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120620,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120621,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 2",
+      "block": 10229393120622,
+      "availability_resale": 0,
+      "min_price": 1705000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121590,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121589,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121588,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121626,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121627,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121609,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121610,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121611,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121612,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121618,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121623,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121598,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121597,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121596,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121595,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121591,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121628,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121629,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121630,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121607,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121606,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121605,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121604,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121603,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121585,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121613,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121622,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121600,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121599,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121584,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121575,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121594,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121593,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121592,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121631,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121608,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Category 3",
+      "block": 10229393121574,
+      "availability_resale": 0,
+      "min_price": 1020000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Technical",
+      "block": 10229393120445,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2355000
+    },
+    {
+      "category": "Technical",
+      "block": 10229393120442,
+      "availability_resale": 0,
+      "min_price": 2355000,
+      "max_price": 2355000
+    },
+    {
+      "category": "Category 4",
+      "block": 10229393121587,
+      "availability_resale": 0,
+      "min_price": 370000,
+      "max_price": 370000
+    },
+    {
+      "category": "Category 4",
+      "block": 10229393121625,
+      "availability_resale": 0,
+      "min_price": 370000,
+      "max_price": 370000
+    },
+    {
+      "category": "Category 4",
+      "block": 10229393121602,
+      "availability_resale": 0,
+      "min_price": 370000,
+      "max_price": 370000
+    },
+    {
+      "category": "Category 4",
+      "block": 10229393121601,
+      "availability_resale": 0,
+      "min_price": 370000,
+      "max_price": 370000
+    },
+    {
+      "category": "Wheelchair User - Category 1",
+      "block": 10229673487620,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User - Category 1",
+      "block": 10229393120672,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User - Category 1",
+      "block": 10229393120691,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User - Category 1",
+      "block": 10229673487617,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User - Category 1",
+      "block": 10229673487618,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User Companion - Category 1",
+      "block": 10229673487620,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User Companion - Category 1",
+      "block": 10229393120691,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User Companion - Category 1",
+      "block": 10229673487617,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User Companion - Category 1",
+      "block": 10229673487618,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Wheelchair User - Category 3",
+      "block": 10229393120558,
+      "availability_resale": 0,
+      "min_price": 1410000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Wheelchair User - Category 3",
+      "block": 10229393120557,
+      "availability_resale": 0,
+      "min_price": 1410000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Wheelchair User - Category 3",
+      "block": 10229393120555,
+      "availability_resale": 0,
+      "min_price": 1410000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Easy Access Standard - Category 2",
+      "block": 10229393121691,
+      "availability_resale": 0,
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Easy Access Standard - Category 2",
+      "block": 10229393121681,
+      "availability_resale": 0,
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Easy Access Standard - Category 2",
+      "block": 10229393121657,
+      "availability_resale": 0,
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Easy Access Standard - Category 2",
+      "block": 10229393121645,
+      "availability_resale": 0,
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Easy Access Standard - Category 2",
+      "block": 10229393121639,
+      "availability_resale": 0,
+      "min_price": 2260000,
+      "max_price": 2260000
+    },
+    {
+      "category": "Easy Access Amenity - Category 1",
+      "block": 10229393120666,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Easy Access Amenity - Category 1",
+      "block": 10229393120667,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Easy Access Amenity - Category 1",
+      "block": 10229393120668,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Easy Access Amenity - Category 1",
+      "block": 10229393120669,
+      "availability_resale": 0,
+      "min_price": 2985000,
+      "max_price": 2985000
+    },
+    {
+      "category": "Easy Access Amenity - Category 3",
+      "block": 10229393120687,
+      "availability_resale": 0,
+      "min_price": 1410000,
+      "max_price": 1410000
+    },
+    {
+      "category": "Easy Access Amenity - Category 3",
+      "block": 10229393120686,
+      "availability_resale": 0,
+      "min_price": 1410000,
+      "max_price": 1410000
+    }
+  ]
+}
