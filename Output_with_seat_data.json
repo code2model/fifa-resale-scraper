@@ -1,0 +1,1109 @@
+{
+  "created_at": "2026-04-24T16:34:41.245980+00:00",
+  "license_hash": "personal",
+  "match_code": "M4",
+  "home": "USA",
+  "away": "Paraguay",
+  "performance_id": "10229226700888",
+  "seat_count": 1,
+  "layer1": [
+    {
+      "category": "Category 1",
+      "block": "213",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "214",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "224",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "C115",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "C222",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "C223",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "104",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "105",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "202",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "203",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "206",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "207",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "208",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "209",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "210",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "211",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "212",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "119",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "120",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "121",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "122",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "123",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "228",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "229",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "230",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "231",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "232",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "233",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "234",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "235",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "237",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "238",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "C117",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "C118",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "200",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "201",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "239",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "240",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "241",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "C128",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "C243",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 1",
+      "block": "C244",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Category 2",
+      "block": "328",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "408",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "409",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "410",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "411",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "418",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "419",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "420",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "421",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "510",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "511",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "512",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "513",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "515",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "516",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "517",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "518",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "519",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "304",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "309",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "310",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "311",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "312",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "313",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "314",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "400",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "401",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "402",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "403",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "404",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "405",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "406",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "407",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "451",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "452",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "454",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "456",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "457",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "330",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "331",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "332",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "340",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "341",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "342",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "422",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "423",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "425",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "426",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "432",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "433",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "434",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "435",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "343",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "437",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "439",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "440",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "441",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "447",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "448",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "449",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "450",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "535",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "536",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "537",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "538",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "539",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "540",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "541",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "542",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "543",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "544",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Category 2",
+      "block": "545",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C116",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "100",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "104",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "105",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C106",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C137",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "119",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "120",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C117",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C126",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C127",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C128",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C129",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C134",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C135",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 1",
+      "block": "C136",
+      "availability_resale": 0,
+      "min_price": 2735000,
+      "max_price": 2735000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "316",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "319",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "325",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "326",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "329",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "303",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "304",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "305",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "311",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "312",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "313",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "314",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "315",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "330",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "341",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "342",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "300",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "301",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "302",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "343",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "344",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "345",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "346",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "347",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    },
+    {
+      "category": "Front Category 2",
+      "block": "353",
+      "availability_resale": 0,
+      "min_price": 1940000,
+      "max_price": 1940000
+    }
+  ],
+  "cart_tickets": [
+    {
+      "block": "213",
+      "row": "10",
+      "seat": "zone",
+      "category": "Category 1",
+      "usd": 2735.0,
+      "seatId": null,
+      "resaleMovementId": null,
+      "exclusive": null,
+      "raw": "Seat zone Main Stand - Lower Tier Block 213 Row 10 Seat 21 Category 1 2,735.00 USD"
+    }
+  ]
+}
