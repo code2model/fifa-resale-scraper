@@ -83,7 +83,7 @@ and keep the page open.
 ### 4. Run Scraper:
 running:
 ```
-python main.py"
+python main.py
 ```
 to connect to Chrome session, capture availability API, and save raw data.
 
