@@ -6,14 +6,14 @@ from pathlib import Path
 
 from playwright.async_api import async_playwright
 
-OUTPUT_FILE = Path("poc_output_with_cart_4.json")
-LICENSE_HASH = "personal"
+OUTPUT_FILE = Path("Output_101.json")
+LICENSE_HASH = "personal" 
 
 
 def normalize_text(value):
     if not value:
         return ""
-    return re.sub(r"\s+", " ", value).strip()
+    return re.sub(r"\s+", " ", value).strip() 
 
 
 def extract_match_code(text):
@@ -103,7 +103,7 @@ async def main():
         await page.wait_for_timeout(8000)
 
         if not captured_data:
-            print("⚠️ Click UI once manually")
+            print(" Click UI once manually")
             await page.wait_for_timeout(8000)
 
         if not captured_data:
@@ -148,7 +148,7 @@ async def main():
         cart_items = page.locator(".stx-sm-SeatDetails-Details")
 
         count = await cart_items.count()
-        print(f"🧾 Found {count} ticket elements")
+        print(f" Found {count} ticket elements")
 
         for i in range(count):
             try:

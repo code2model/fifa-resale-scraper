@@ -1,0 +1,128 @@
+[
+  {
+    "created_at": "2026-04-25T07:38:33.939615+00:00",
+    "license_hash": "personal",
+    "match_code": "M101",
+    "home": "Winner 97",
+    "away": "Winner 98",
+    "performance_id": "10229226725357",
+    "seat_count": 1,
+    "seats": [
+      {
+        "seatId": null,
+        "block": "125",
+        "row": "8",
+        "seat": "zone",
+        "category": "Front Category 1",
+        "usd": 11130.0,
+        "resaleMovementId": null,
+        "exclusive": null
+      }
+    ]
+  },
+  {
+    "created_at": "2026-04-25T07:35:11.499732+00:00",
+    "license_hash": "personal",
+    "match_code": "M102",
+    "home": "Winner 99",
+    "away": "Winner 100",
+    "performance_id": "10229226725358",
+    "seat_count": 1,
+    "seats": [
+      {
+        "seatId": null,
+        "block": "133",
+        "row": "13",
+        "seat": "zone",
+        "category": "Front Category 1",
+        "usd": 9660.0,
+        "resaleMovementId": null,
+        "exclusive": null
+      }
+    ]
+  },
+  {
+    "created_at": "2026-04-25T06:47:54.719066+00:00",
+    "license_hash": "personal",
+    "match_code": "M56",
+    "home": "Ecuador",
+    "away": "Germany",
+    "performance_id": "10229226700944",
+    "seat_count": 1,
+    "seats": [
+      {
+        "seatId": null,
+        "block": "133",
+        "row": "9",
+        "seat": "zone",
+        "category": "Front Category 1",
+        "usd": 2550.0,
+        "resaleMovementId": null,
+        "exclusive": null
+      }
+    ]
+  },
+  {
+    "created_at": "2026-04-25T07:15:08.035325+00:00",
+    "license_hash": "personal",
+    "match_code": "M61",
+    "home": "Norway",
+    "away": "France",
+    "performance_id": "10229226700949",
+    "seat_count": 1,
+    "seats": [
+      {
+        "seatId": null,
+        "block": "136",
+        "row": "3",
+        "seat": "zone",
+        "category": "Front Category 1",
+        "usd": 2505.0,
+        "resaleMovementId": null,
+        "exclusive": null
+      }
+    ]
+  },
+  {
+    "created_at": "2026-04-25T07:23:55.312958+00:00",
+    "license_hash": "personal",
+    "match_code": "M91",
+    "home": "Winner 76",
+    "away": "Winner 78",
+    "performance_id": "10229226725347",
+    "seat_count": 1,
+    "seats": [
+      {
+        "seatId": null,
+        "block": "121",
+        "row": "3",
+        "seat": "zone",
+        "category": "Front Category 1",
+        "usd": 3165.0,
+        "resaleMovementId": null,
+        "exclusive": null
+      }
+    ]
+  },
+  {
+    "created_at": "2026-04-25T07:28:55.842996+00:00",
+    "license_hash": "personal",
+    "match_code": "M97",
+    "home": "Winner 89",
+    "away": "Winner 90",
+    "performance_id": "10229226725353",
+    "seat_count": 1,
+    "seats": [
+      {
+        "seatId": null,
+        "block": "118",
+        "row": "18",
+        "seat": "zone",
+        "category": "Front Category 1",
+        "usd": 4200.0,
+        "resaleMovementId": null,
+        "exclusive": null
+      }
+    ]
+  }
+]
